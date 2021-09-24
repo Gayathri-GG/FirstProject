@@ -1,2 +1,2 @@
 # FirstProject
-This is first trial project in the step of learning Git
+This is initial project in the step of learning Git
